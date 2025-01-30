@@ -7,7 +7,7 @@ public class Card implements Comparable<Card>{
     public Card(int rank, Suit suit) {
         this.rank = rank;
         this.suit = suit;
-    } //
+    } // commit
 
     public int getRank() {
         return rank;
